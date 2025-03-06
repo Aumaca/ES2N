@@ -1,0 +1,9 @@
+O que você entendeu da Situação Atual e problemas?
+O controle das salas de reunião é feito manualmente em planilhas de Excel, com uma para cada dia do mês. Esse método dificulta a busca por horários disponíveis, a realocação de reuniões e a identificação rápida das salas livres, além de não evitar conflitos de agendamento.
+
+Qual a sua Proposta de Solução?
+A solução é criar um sistema automatizado para o agendamento de salas, onde todas as informações fiquem centralizadas. O sistema deve permitir o cadastro de funcionários, consulta rápida de disponibilidade, realocação fácil e notificações automáticas, tornando o processo mais eficiente e organizado.
+
+Lista de Requisitos Funcionais
+O sistema deve permitir o cadastro de funcionários e salas, com capacidade e recursos disponíveis. Deve oferecer agendamento com verificação automática de disponibilidade, busca por horários livres, realocação de reuniões e envio de notificações. Além disso, deve gerar relatórios e impedir conflitos de agendamento.
+
